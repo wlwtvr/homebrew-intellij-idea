@@ -3,7 +3,7 @@
 ## How to use
 ```sh
 $ brew tap wlwtvr/homebrew-intellij-idea
-$ brew install --cask intellij-idea-ce@2023.2.5
+$ brew install --cask intellij-idea-ce-202325
 ```
 
 ## Maintaned versions

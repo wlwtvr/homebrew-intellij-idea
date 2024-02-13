@@ -1,4 +1,4 @@
-cask "intellij-idea-ce@2023.2.5" do
+cask "intellij-idea-ce-202325" do
   arch arm: "-aarch64"
 
   version "2023.2.5,232.10227.8"
